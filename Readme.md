@@ -4,11 +4,12 @@
 
 **node version** : `v16.13.0`
 
-* React 17
-* styled components
-* TypeScript
-* Webpack 5
-* Eslint
+-   React 18
+-   styled components
+-   TypeScript
+-   Webpack 5
+-   Eslint
+-   Prettier
 
 ## Develop
 
@@ -16,7 +17,7 @@
 # Install Node Modules
 npm install
 
-# Devleopment
+# Development
 npm run dev
 
 # Build
