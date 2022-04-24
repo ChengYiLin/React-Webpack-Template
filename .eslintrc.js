@@ -13,6 +13,11 @@ module.exports = {
         sourceType: "module",
     },
     plugins: ["react", "@typescript-eslint"],
+    settings: {
+        react: {
+            version: "18",
+        },
+    },
     rules: {
         "react/jsx-uses-react": "off",
         "react/react-in-jsx-scope": "off",
