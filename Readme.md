@@ -2,10 +2,9 @@
 
 ## Primary Modules
 
-**node version** : `v16.13.0`
+**node version** : `>v16.15.0`
 
 -   React 18
--   styled components
 -   TypeScript
 -   Webpack 5
 -   Eslint
