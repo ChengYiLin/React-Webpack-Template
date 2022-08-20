@@ -1,8 +1,9 @@
-import { FC } from "react";
+import { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
+import App from "./app";
 
-const App: FC = () => {
-    return <div>Hello React 18</div>;
-};
-
-ReactDOM.createRoot(document.querySelector("#root")).render(<App />);
+ReactDOM.createRoot(document.querySelector("#root")).render(
+    <StrictMode>
+        <App />
+    </StrictMode>
+);
