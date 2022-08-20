@@ -5,6 +5,7 @@
 **node version** : `>v16.15.0`
 
 -   React 18
+-   Tailwind CSS
 -   TypeScript
 -   Webpack 5
 -   Eslint
